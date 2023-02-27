@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12a883ab-cb5c-42a3-a517-a2d3009b7a73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/stats/StatsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/stats/StatsServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M6TFF1Kcg4v3T3SsmwCPRdpPmy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/Valeria/IdeaProjects/StringsArray/src/test/java",
+    "last_opened_file_path": "C:/Users/Valeria/IdeaProjects/StringsArray",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Valeria\IdeaProjects\StringsArray\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatsServiceTest.findNumbersOfMonthsHigherAverage">
+    <configuration name="StatsServiceTest.findNumbersOfMonthsBelowAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaqamvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findNumbersOfMonthsBelowAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.findNumbersOfMonthsHigherAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaqamvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="findNumbersOfMonthsHigherAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldFindAverageAmountOfSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaqamvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindAverageAmountOfSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldFindMaxMonthSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaqamvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindMaxMonthSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatsServiceTest.shouldFindMinMonthSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaqamvn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.stats.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.stats" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.stats.StatsServiceTest" />
+      <option name="METHOD_NAME" value="shouldFindMinMonthSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatsServiceTest.findNumbersOfMonthsHigherAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.findNumbersOfMonthsBelowAverage" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldFindAverageAmountOfSales" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldFindMinMonthSales" />
+        <item itemvalue="JUnit.StatsServiceTest.shouldFindMaxMonthSales" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a883ab-cb5c-42a3-a517-a2d3009b7a73" name="Changes" comment="" />
+      <created>1677086929328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677086929328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StringsArray$StatsServiceTest_findNumbersOfMonthsBelowAverage.ic" NAME="StatsServiceTest.findNumbersOfMonthsBelowAverage Coverage Results" MODIFIED="1677535163124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.netology.stats.*</FILTER>
+    </SUITE>
+  </component>
+</project>
